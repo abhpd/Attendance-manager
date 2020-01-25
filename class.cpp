@@ -33,6 +33,5 @@ public:
     }
     void log(){
         string query_code;
-        cout<<"Enter subject code or select from the list displayed followed by X(X=P/A/L)>";
     }
 };
