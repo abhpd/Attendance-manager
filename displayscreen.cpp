@@ -11,8 +11,8 @@ void setupmenu(){
     cout<<"ATTENDANCE-MANAGER"<<endl;
     cout<<"------------------"<<endl<<endl;
 
-    cout<<"1.Edit Subjects\n\n:>";
+    cout<<"1.Add Subjects\n\n:>";
 }
 void logmenu(){
-    cout<<"Enter subject code or select from the list displayed followed by X(X=P/A/L)>";
+    cout<<"Enter subject code followed by X(X=P/A/L)\n\n:>";
 }

@@ -1,0 +1,9 @@
+SMT-122
+Discrete Mathematics
+10 6 2 2
+PCT-423
+Advanced Physics
+12 9 2 1
+EMP-138
+Logo Archphysco
+8 4 3 6
